@@ -1,7 +1,33 @@
 html, body {
   margin: 0;
   padding: 0;
+  width: 100%;
+  max-height: 100%;
+  background-color: #808080;
 }
 canvas {
-  display: block;
+    display: block;
+    margin: 5% 0 0 28%;
+}
+header {
+    height: 6%;
+    width: 100%;
+    padding-left: 40%;
+    background-color: rgba(114, 159, 207, 0.7);
+}
+.eean-link img {
+    width: 2.5%;
+}
+.eean-link a{
+    text-decoration: none;
+    color: white;
+}
+.eean-link a:hover {
+    text-decoration: none;
+    color: rgb(117, 117, 117);
+}
+.eean-link span {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courgette', cursive;
 }
