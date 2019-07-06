@@ -5,7 +5,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(900, 900);
+  // createCanvas(900, 900);
+  createCanvas(windowWidth - 500, windowHeight - 100);
   noStroke();
 }
 
@@ -66,4 +67,8 @@ function draw() {
     x_coord_en = x_coord_en + side_en + 10;
     x_coord_fr = x_coord_fr + side_fr + 10;
   }
+}
+
+function windowResized() {
+    resizeCanvas(windowWidth, windowHeight);
 }
