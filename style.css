@@ -1,8 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  width: 100%;
-  max-height: 100%;
+  max-height: 100vh;
   background-color: #808080;
 }
 canvas {
@@ -11,7 +10,7 @@ canvas {
 }
 header {
     height: 6%;
-    width: 100%;
+    min-width: 100vh;
     padding-left: 40%;
     background-color: rgba(114, 159, 207, 0.7);
 }
