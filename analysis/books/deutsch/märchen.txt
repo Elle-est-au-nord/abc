@@ -1,0 +1,988 @@
+The Project Gutenberg EBook of Märchen für Kinder, by Hans Christian Andersen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Märchen für Kinder
+
+Author: Hans Christian Andersen
+
+Illustrator: Nikolai Karasin, A. Zick, P. Schnorr, F. Reiß, E. Klimsch, E. Kepler, M. Flashar, H. Effenberger
+
+Translator: Paul Arndt
+
+Release Date: September 3, 2006 [EBook #19163]
+
+Language: German
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MÄRCHEN FÜR KINDER ***
+
+
+
+
+Produced by Louise Hope, Markus Brenner, Juliet Sutherland
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                H. C. Andersens
+
+              MÄRCHEN FÜR KINDER.
+
+  Frei nach der Reclamschen Ausgabe bearbeitet
+
+                      von
+
+                  Paul Arndt.
+
+
+   Mit 5 Buntbildern von N. _Karasin_, sowie
+
+             40 Textillustrationen
+
+  von A. Zick, P. Schnorr, F. Reiß, E. Klimsch,
+   E. Kepler, M. Flashar, H. Effenberger etc.
+
+
+                Neunte Auflage.
+
+    [Illustration/Abbildung: Loewes Verlag]
+
+                   Stuttgart
+                 Loewes Verlag
+                 Ferdinand Carl.
+
+
+     Druck von _Carl Hammer_ in Stuttgart.
+
+
+
+
+Märchengruß.
+
+  [Abbildung/Illustration: capH_iii.png]
+
+  _Hans Andersen, der Märchendichter_,
+  Nennt man ihn nur, landaus, landein;
+  Da lachen strahlende Gesichter,
+  Da jubeln Bub’ und Mägdelein!
+  Ihm sang und klang, ihm lebt’ und lachte,
+  Was anderer Ohr und Auge tot,
+  Das Seelenlose fühlt’ und dachte
+  Und ward beseelt, -- wenn er gebot.
+
+  Den er gepflückt im Wunderlande,
+  Den allerschönsten Märchenstrauß,
+  Geknüpft mit rot und weißem Bande,
+  Streut’ einst er in die Welt hinaus.
+  Und aus dem Strauß die zart’sten Triebe,
+  Die er bestimmt der _Kinderschar_,
+  Sind hier gesammelt euch zuliebe;
+  Wir bieten sie euch freudig dar.
+
+  Längst ist er schon von uns gegangen,
+  Der Dichter, der den Kindern lieb,
+  Doch leben noch in Jugendprangen
+  Die _Märchen_, die für euch er schrieb.
+  Sie klingen fort und werden klingen
+  Unsterblich noch in später Zeit,
+  Und sich wie gold’ne Fäden schlingen
+  Um Kind und Märchenherrlichkeit.
+
+  Des _grauen Entleins_ Abenteuer,
+  Der _Zinnsoldat_, auf einem Bein
+  Standhaft im Wasser und im Feuer,
+  Die _Schwäne_ und ihr Schwesterlein;
+  Das Märlein von dem _Tannenbaume_,
+  Vom _Koffer_, der die Luft durchschwirrt,
+  Vom _Sandmann_ und Klein-Hjalmars Traume,
+  Vom _Tölpelhans_, der König wird.
+
+  Sie wollen plaudern, wollen scherzen,
+  Sie wollen bei euch Kindern sein,
+  Und dringen in die Kinderherzen
+  Mit ernster Lehre mahnend ein. --
+  So macht dem luftigen Gelichter
+  Ein Heim in Herz und Haus bereit,
+  Und seid gegrüßt vom Märchendichter,
+  Die ihr ja selber Märchen seid!
+
+
+
+
+Inhalts-Übersicht.
+
+                                      Seite
+  Däumelieschen                             1
+  Die Störche                               8
+  Der fliegende Koffer                     11
+  Der Schneemann                           15
+  Es ist ein Unterschied                   18
+  Das Feuerzeug                            20
+  Das häßliche Entlein                     25
+  Die Stopfnadel                           31
+  Tölpelhans                               33
+  Fünf in der Schote                       36
+  Das Märchen vom Sandmann                 38
+  Die Theekanne                            45
+  Die Blumen der kleinen Ida               46
+  Das kleine Mädchen
+    mit den Schwefelhölzern                50
+  Die wilden Schwäne                       52
+  Die glückliche Familie                   61
+  Der Engel                                63
+  Der standhafte Zinnsoldat                65
+  Des Kaisers Nachtigall                   68
+  Die Schneekönigin                        74
+  Fliedermütterchen                        91
+  Der Tannenbaum                           97
+  Das alte Haus                           103
+  Der Buchweizen                          107
+  Die roten Schuhe                        109
+
+
+
+
+Däumelieschen.
+
+  [Abbildungen/Illustrations: capH1.png, pic3.jpg]
+
+
+Hilfe suchend kam einmal eine Frau zu einer alten Hexe und fragte sie,
+ob sie ihr nicht ein kleines Mädchen verschaffen könnte.
+
+„O ja, das soll nicht schwer halten!“ sagte die Hexe. „Da hast du ein
+Gerstenkorn; das ist nicht etwa von der Art, wie es auf einem
+Bauernfelde wächst, oder womit die Hühner gefüttert werden. Lege es in
+einen Blumentopf, dann wirst du etwas zu sehen bekommen!“
+
+„Besten Dank!“ sagte die Frau und gab der Hexe ein Geldstück, ging dann
+heim, pflanzte das Gerstenkorn, und sogleich wuchs eine große herrliche
+Blume hervor, die vollkommen einer Tulpe glich, aber die Blätter
+schlossen sich fest zusammen, als ob sie noch in der Knospe wären.
+
+„Das ist eine schöne Blume!“ sagte die Frau und küßte sie auf die
+herrlichen roten und gelben Blätter, aber wie sie sie noch küßte, that
+die Blume einen großen Knall und öffnete sich. Es war, wie man nun sehen
+konnte, eine wirkliche Tulpe; aber mitten in der Blüte, auf dem grünen
+Blumengriffel, saß ein winzig kleines, blondlockiges Mädchen, fein und
+lieblich. Sie war nicht größer als ein Daumen, und deswegen wurde sie
+_Däumelieschen_ genannt.
+
+Eine prächtige, lackirte Wallnußschale erhielt sie zur Wiege, blaue
+Veilchenblätter waren ihre Matratze und ein Rosenblatt ihr Deckbett.
+Darin schlief sie des Nachts, aber am Tage spielte sie auf dem Tische.
+Die Frau hatte einen Teller darauf gestellt, um den sie einen ganzen
+Kranz Blumen gelegt hatte, deren Stengel in das Wasser reichten. Hier
+schwamm ein großes Tulpenblatt und auf diesem durfte Däumelieschen
+sitzen und von der einen Seite des Tellers bis zur andern schwimmen.
+Zum Rudern hatte sie zwei weiße Pferdehaare. Das sah unbeschreiblich
+niedlich aus. Sie konnte auch singen, o so fein und lieblich, wie man
+nie zuvor gehört hatte.
+
+Eines Nachts, als sie in ihrem hübschen Bettchen lag, kam durch das
+Fenster, in dem eine Scheibe zerbrochen war, eine häßliche Kröte
+hereingehüpft; sie hüpfte gerade auf den Tisch hernieder, wo
+Däumelieschen lag und unter dem roten Rosenblatte schlief.
+
+„Das wäre eine schöne Frau für meinen Sohn!“ sagte die Kröte, und dann
+ergriff sie die Wallnußschale, in der Däumelieschen schlief, und hüpfte
+mit ihr durch die Scheibe in den Garten hinunter.
+
+Da floß ein großer, breiter Bach; aber dicht am Ufer war es sumpfig und
+morastig; hier wohnte die Kröte mit ihrem Sohne. Hu, der war eben so
+garstig und häßlich, das ganze Ebenbild seiner Mutter. „Koax, Koax,
+breckekekex,“ war alles, was er sagen konnte, als er das hübsche, kleine
+Mädchen sah.
+
+„Schwatz’ nicht so laut, sonst wacht sie auf!“ sagte die alte Kröte,
+„sie könnte uns sonst noch entlaufen, denn sie ist so leicht wie ein
+Eiderflaum! Wir wollen sie in den Bach hinaus auf eines der breiten
+Wasserlilienblätter setzen, das ist für sie, die so leicht und klein
+ist, wie eine Insel. Da kann sie nicht entlaufen, während wir den
+Festsaal unten tief unter dem Sumpfe, wo ihr wohnen und leben sollt,
+in Stand setzen.“
+
+Die alte Kröte schwamm nun nach einem der großen, grünen Blätter, welche
+inmitten des Baches aus dem Wasser ragten, als ob sie darauf schwämmen,
+und setzte die Nußschale mit Däumelieschen auf dasselbe nieder.
+
+Das arme kleine Mädchen erwachte beim ersten Morgengrauen, und da es
+wahrnahm, wo es war, fing es gar bitterlich an zu weinen, denn Wasser
+umgab von allen Seiten das große grüne Blatt.
+
+Die alte Kröte saß unten im Sumpfe und schmückte ihr Zimmer mit Schilf
+und gelben Wasserlilien, denn für die neue Schwiegertochter sollte
+alles auf das Feinste hergerichtet werden. Darauf schwamm sie mit dem
+garstigen Sohne zu dem Blatte hinaus, wo Däumelieschen stand. Die alte
+Kröte verneigte sich vor ihr bis tief ins Wasser hinein und sagte: „Hier
+stell’ ich dir meinen Sohn vor, der dein Mann werden soll. Ihr werdet
+unten im Sumpfe ganz prächtig wohnen.“
+
+„Koax, Koax, breckekekex!“ war alles, was der Sohn sagen konnte. Darauf
+schwamm die alte Kröte mit ihrem Sohn fort und sie nahmen Däumelieschens
+Bett für die neue Ausstattung gleich mit. Da saß das arme kleine Mädchen
+und weinte heiße Thränen auf das grüne Blatt hinab, denn sie wollte
+weder bei der häßlichen Kröte wohnen, noch ihren häßlichen Sohn zum
+Manne haben. Die kleinen Fische, welche unten im Wasser schwammen,
+hatten die Kröte recht wohl gesehen und gehört, was sie sagte. Sie
+wollten Däumelieschen gern vor der Kröte und ihrem häßlichen Sohne
+retten und nagten mit ihren scharfen Zähnen den Stiel des Blattes ab und
+nun schwamm das Blatt mit Däumelieschen hinab, weit, weit fort, wohin
+die Kröte nicht gelangen konnte.
+
+Däumelieschen segelte an gar vielen Städten vorüber, und die kleinen
+Vögel saßen in den Büschen, sahen sie und sangen: „Welch niedliches
+kleines Mädchen!“ Weiter und immer weiter schwamm das Blatt mit ihr;
+so reiste denn Däumelieschen ins Ausland.
+
+Ein allerliebster kleiner Schmetterling wurde nicht müde sie zu
+umflattern und schwebte endlich auf das Blatt hernieder, denn er konnte
+Däumelieschen gar wohl leiden. Diese war hoch erfreut, denn die Kröte
+konnte sie jetzt nicht mehr erreichen, und es war köstlich, wo sie
+segelte. Die Sonne schien auf das Wasser und dieses glänzte wie
+schimmerndes Gold. Da nahm sie ihren Gürtel, schlang das eine Ende
+desselben um den Schmetterling und befestigte das andere am Blatte. Das
+glitt jetzt weit schneller das Wasser hinunter und sie mit, denn sie
+stand ja auf dem Blatte.
+
+Plötzlich kam ein großer Maikäfer angeflogen, der sie gewahrte und
+augenblicklich seine Klauen um ihren schlanken Leib schlug und mit ihr
+auf einen Baum flog. Aber das grüne Blatt schwamm den Bach hinab und der
+Schmetterling flog mit, denn er war an das Blatt gebunden und konnte
+sich auch nicht befreien.
+
+Gott, wie sehr erschrak das arme Däumelieschen, als der Maikäfer mit ihr
+auf den Baum hinaufflog! Am meisten betrübte sie jedoch der Gedanke an
+den schönen, weißen Schmetterling, den sie an das Blatt gebunden hatte.
+Konnte er nicht loskommen, mußte er ja rettungslos verhungern.
+
+Der Maikäfer setzte sich mit Däumelieschen auf das größte Blatt des
+Baumes, speiste sie mit dem Blütenhonig und sagte ihr, sie wäre sehr
+schön, obgleich sie einem Maikäfer in keinem Stücke ähnelte. Später
+kamen noch viele Maikäfer zu Besuch; sie beguckten Däumelieschen von
+allen Seiten und die Maikäferfräulein rümpften die Fühlhörner und
+sagten: „Sie hat ja nur zwei Füße; das sieht doch zu jämmerlich aus!“
+
+„Wie häßlich sie ist!“ sagten auch die alten Maikäferfrauen, und
+trotzdem war Däumelieschen so schön. So kam sie auch dem Maikäfer vor,
+der sie entführt hatte, da aber alle anderen darin übereinstimmten, sie
+wäre häßlich, so glaubte er es zuletzt ebenfalls und wollte sie nun gar
+nicht haben; sie konnte gehen, wohin sie wollte. Sie flogen mit ihr vom
+Baume hinunter und setzten sie auf ein Gänseblümchen. Da weinte sie,
+weil sie so häßlich wäre, daß sie nicht einmal die Maikäfer unter sich
+dulden wollten.
+
+Während des ganzen Sommers lebte Däumelieschen ganz allein in dem großen
+Walde. Sie flocht sich ein Bett aus Grashalmen und hing es unter einem
+großen Klettenblatte auf, so daß sie gegen den Regen geschützt war.
+Blütenhonig war ihre Speise und ihren Durst stillte sie an dem Tau, der
+morgens auf den Blättern stand. So verstrich Sommer und Herbst, aber nun
+kam der Winter, der kalte, lange Winter. Alle Vögel, die ihr so schön
+vorgesungen hatten, flogen ihrer Wege, die Bäume und Blumen welkten
+dahin; das große Klettenblatt, unter dem sie gewohnt hatte, schrumpfte
+zusammen, und es blieb nur noch ein gelber, vertrockneter Stengel. Sie
+fror bitterlich, ihre Kleider waren zerrissen und sie selbst war gar
+fein und klein; das arme Däumelieschen mußte erfrieren. Es begann zu
+schneien und jede Schneeflocke, die auf sie fiel, that dieselbe Wirkung,
+als wenn man auf uns eine Schaufel voll wirft, denn wir sind groß, sie
+aber war nur einen Daumen lang. Da hüllte sie sich in ein verwelktes
+Blatt, aber das erwärmte sie nicht; sie zitterte vor Kälte.
+
+Hart am Saume des Waldes, wohin sie jetzt gelangt war, lag ein großes
+Kornfeld, allein das Korn war längst eingeerntet, nur die nackten,
+trockenen Stoppeln ragten aus der gefrorenen Erde hervor. Ihr kamen sie
+wie ein großer Wald vor, den sie zu durchwandern hatte, und sie
+klapperte nur so vor Kälte. Da kam sie vor die Thür der Feldmaus. Deren
+ganzes Reich bestand in einer kleinen Höhle unter den Kornstoppeln. Dort
+wohnte die Feldmaus geschützt und behaglich, hatte die ganze Stube voll
+Korn und eine prächtige Küche und Speisekammer. Das arme Däumelieschen
+stellte sich an die Thür, gerade wie jedes andere Bettelmädchen, und bat
+um ein kleines Stückchen Gerstenkorn, denn sie hatte seit zwei Tagen
+nicht das Geringste zu essen bekommen.
+
+„Du arme Kleine!“ sagte die Feldmaus, denn es war im Grunde genommen
+eine gute, alte Feldmaus, „komm’ in meine warme Stube herein und iß mit
+mir!“
+
+Da sie nun Gefallen an Däumelieschen fand, sagte sie: „Du kannst getrost
+den Winter über bei mir bleiben, aber du mußt mir die Stube hübsch
+sauber halten und mir Geschichten erzählen, denn das ist meine Lust!“
+Däumelieschen that, was die gute, alte Feldmaus verlangte und hatte es
+ganz vortrefflich bei ihr.
+
+„Nun bekommen wir gewiß bald Besuch!“ sagte die Feldmaus. „Mein Nachbar
+pflegt mich täglich zu besuchen. Der hat noch mehr vor sich gebracht,
+als ich, hat große Säle und geht in einem herrlichen schwarzen
+Sammetpelze einher. Könntest du den zum Manne bekommen, dann wärest du
+gut versorgt.“
+
+Doch Däumelieschen mochte den Nachbar gar nicht haben, denn er war ein
+Maulwurf. Er kam und machte in seinem schwarzen Sammetpelze seine
+Aufwartung. Er wäre sehr reich und sehr gelehrt, sagte die Feldmaus.
+Seine Wohnung war auch in der That zwanzigmal größer als die der
+Feldmaus, und Gelehrsamkeit besaß er, aber die Sonne und die herrlichen
+Blumen konnte er gar nicht leiden; über sie wußte er nur Schlimmes zu
+erzählen, weil er sie nie gesehen hatte.
+
+Er hatte sich vor Kurzem einen langen Gang von seinem bis zu ihrem Hause
+durch die Erde gegraben; in ihm durfte die Feldmaus und Däumelieschen
+mit seiner Erlaubnis nach Herzenslust spazieren. Er bat sie aber, nicht
+vor dem toten Vogel zu erschrecken, der im Gange läge. Es war ein ganzer
+Vogel mit Federn und Schnabel, der erst kürzlich beim Beginn des Winters
+gestorben sein konnte und nun gerade da begraben war, wo er seinen Gang
+angelegt hatte.
+
+Der Maulwurf nahm ein faules Stück Holz in das Maul, weil es im Dunkeln
+wie Feuer schimmert, ging dann voran und leuchtete ihnen in dem langen,
+finsteren Gange. Als sie zu der Stelle gelangten, wo der tote Vogel lag,
+drückte der Maulwurf mit seiner breiten Nase gegen das Gewölbe und stieß
+die Erde auf, so daß ein großes Loch entstand, durch welches das Licht
+hereinschimmerte. Mitten auf dem Boden lag eine tote Schwalbe, die
+schönen Flügel fest an die Seite gedrückt, die Beine und den Kopf unter
+die Federn gezogen. Der arme Vogel war sicher vor Kälte gestorben.
+Däumelieschen hatte inniges Mitleid mit ihr, sie liebte alle die kleinen
+Vögel, hatten sie ihr doch den ganzen Sommer hindurch so schön etwas
+vorgesungen und vorgezwitschert, aber der Maulwurf stieß ihn mit seinen
+kurzen Beinen und sagte: „Nun pfeift er nicht mehr! Es muß doch
+jämmerlich sein, als kleiner Vogel geboren zu werden! Außer seinem
+„Quivit“ hat ja ein solcher Vogel durchaus nichts und muß im Winter
+elendiglich verhungern!“
+
+„Ja, das könnt Ihr als vernünftiger Mann wohl sagen!“ entgegnete die
+Feldmaus. „Was hat ein Vogel für all sein Quivit, wenn der Winter kommt?
+Er muß elendiglich verhungern und erfrieren.“
+
+Däumelieschen sagte nichts, als aber die beiden andern dem Vogel den
+Rücken wandten, neigte sie sich hinab, schob die Federn, die über seinem
+Kopfe lagen, zur Seite und küßte ihn auf die geschlossenen Augen.
+„Vielleicht war er es, der mir im Sommer so schön etwas vorsang,“ dachte
+sie, „wie viel Freude hat er mir verschafft, der liebe, schöne Vogel.“
+
+Der Maulwurf stopfte nun das Loch, durch welches das Tageslicht
+hineinschien, wieder zu und begleitete die Damen nach Hause. Aber in der
+Nacht konnte Däumelieschen schlechterdings nicht schlafen. Da erhob sie
+sich von ihrem Bette und flocht aus Heu einen großen, schönen Teppich,
+trug ihn hinunter, breitete ihn über den toten Vogel aus und legte
+weiche Baumwolle, die sie im Zimmer der Feldmaus gefunden hatte, dem
+Vogel zur Seite, damit er warm liegen möchte in der kalten Erde.
+
+„Lebewohl, du lieber schöner Vogel!“ sagte sie; „Lebewohl und Dank für
+deinen herrlichen Gesang im Sommer, als alle Bäume grün waren und die
+Sonne auf uns so warm hernieder schien!“ Dann legte sie ihr Köpfchen an
+des Vogels Brust, fuhr aber sogleich erschrocken zusammen, denn es war
+fast, als ob etwas in derselben klopfte. Das war des Vogels Herz. Der
+Vogel war nicht tot, er lag nur in einer Betäubung, war jetzt erwärmt
+worden und bekam wieder Leben.
+
+Im Herbste fliegen alle Schwalben nach den warmen Ländern, verspätet
+sich aber eine, so friert sie so, daß sie wie tot zur Erde fällt und
+liegen bleibt, wohin sie fällt, und der kalte Schnee seine Decke über
+sie breitet.
+
+Däumelieschen schauderte ordentlich, so war sie erschreckt worden, denn
+der Vogel war ihr gegenüber, die kaum Daumeslänge hatte, ja so
+erschrecklich groß, aber sie faßte doch wieder Mut, legte die Baumwolle
+dichter um die Schwalbe und holte ein Krausemünzenblatt, dessen sie sich
+selbst als Deckbettes bedient hatte, und legte es über den Kopf des
+Vogels.
+
+In der nächsten Nacht schlich sie sich wieder zu ihm hinunter, und nun
+war er lebendig, aber so matt, daß er nur einen kurzen Augenblick seine
+Augen zu öffnen und Däumelieschen anzusehen vermochte, die, weil sie
+kein anderes Lämpchen haben konnte, mit einem Stückchen faulen Holzes in
+der Hand neben ihm stand.
+
+„Herzlichen Dank, du niedliches kleines Kind!“ sagte die kranke Schwalbe
+zu ihr. „Ich bin vortrefflich erwärmt! Bald erhalte ich meine Kräfte
+wieder und kann dann draußen im warmen Sonnenschein umherfliegen.“
+
+„Ach!“ sagte sie, „es ist draußen gar kalt, es schneit und friert!
+Bleib’ du in deinem warmen Bettchen, ich werde dich schon pflegen!“
+
+Darauf brachte sie der Schwalbe Wasser in einem Blumenblatte und diese
+trank und erzählte ihr, wie sie sich an einem Dornbusche einen ihrer
+Flügel verletzt hätte, weshalb sie nicht mehr so schnell wie die andern
+Schwalben zu fliegen vermochte, als dieselben weit weg nach den warmen
+Ländern fortzogen. Endlich war sie auf die Erde gefallen, und was
+weiteres mit ihr geschehen, wußte sie nicht.
+
+Den ganzen Winter blieb sie nun da unten und Däumelieschen nahm sich
+ihrer auf das Beste an und hatte sie lieb. Weder der Maulwurf noch die
+Feldmaus erfuhr das Geringste davon, weil sie die arme Schwalbe nicht
+leiden mochten.
+
+Sobald der Frühling kam und die Sonne die Erde erwärmte, sagte die
+Schwalbe Däumelieschen Lebewohl, die nun das Loch öffnete, welches der
+Maulwurf in die Decke gemacht hatte. Die Sonne schien herrlich auf sie
+hernieder und die Schwalbe fragte, ob sie sie begleiten wollte, sie
+könnte ja auf ihrem Rücken sitzen, und dann wollten sie weit hinaus in
+den grünen Wald fliegen. Aber Däumelieschen wußte, daß es die alte
+Feldmaus betrüben würde, wenn sie dieselbe auf solche Art verließ.
+
+„Nein, ich kann nicht!“ sagte Däumelieschen. „Lebewohl, lebewohl!
+du gutes, liebes Mädchen!“ sagte die Schwalbe und flog hinaus in den
+Sonnenschein. Däumelieschen sah ihr nach und die Thränen traten ihr in
+die Augen, denn sie hatte die Schwalbe gar lieb.
+
+„Quivit, quivit!“ sang der Vogel und flog hinein in den grünen Wald.
+
+Däumelieschen war sehr betrübt. Sie erhielt nie Erlaubnis, in den warmen
+Sonnenschein hinauszugehen. Das Korn, das auf dem Acker über dem Hause
+der Feldmaus ausgesäet war, wuchs auch hoch in die Luft empor; für das
+arme kleine Mädchen, das kaum Daumeslänge hatte, war es ein völlig
+undurchdringlicher Wald.
+
+„Während des Sommers sollst du nun an deiner Aussteuer nähen!“ sagte die
+Feldmaus zu ihr, denn nun hatte der Nachbar, der langweilige Maulwurf in
+dem schwarzen Sammetpelze, sich um sie beworben.
+
+Däumelieschen mußte nun die Spindel drehen und die Feldmaus nahm vier
+Spinnen in Lohn, die Tag und Nacht spinnen und weben mußten. Jeden Abend
+kam der Maulwurf auf Besuch und sprach nur immer davon, daß, wenn der
+Sommer vergangen, die Sonne nicht mehr so warm scheinen würde, dann
+wollte er mit Däumelieschen Hochzeit feiern. Sie war aber gar nicht
+vergnügt, denn sie hatte den langweiligen Maulwurf keineswegs lieb.
+Jeden Morgen, wenn die Sonne aufging, und jeden Abend, wenn sie
+unterging, schlich sie sich zur Thür hinaus, und sobald der Wind die
+Kornähren auseinander wehte, daß sie den blauen Himmel sehen konnte,
+dachte sie daran, wie hell und schön es hier draußen wäre, und wünschte
+so sehr, die liebe Schwalbe wiederzusehen; aber die kam nie wieder, die
+war gewiß weit fort in den schönen grünen Wald geflogen.
+
+Als es nun Herbst wurde, hatte Däumelieschen ihre ganze Aussteuer
+fertig.
+
+„In vier Wochen sollst du Hochzeit halten!“ sagte die Feldmaus zu ihr.
+Aber Däumelieschen weinte und sagte, sie wollte den langweiligen
+Maulwurf nicht haben.
+
+„Schnickschnack!“ sagte die Feldmaus, „sei nur nicht widerspenstig,
+sonst muß ich dich mit meinen weißen Zähnen beißen.“
+
+Nun sollte Hochzeit sein. Der Maulwurf war schon gekommen, Däumelieschen
+zu holen.
+
+„Lebewohl, du klarer Sonnenstrahl!“ sagte sie und streckte die Ärmchen
+hoch empor und ging auch eine kurze Strecke vom Hause der Feldmaus fort,
+denn nun war das Korn geerntet und nur die dürren Stoppeln standen noch
+da. „Lebewohl, Lebewohl!“ sagte sie und schlang ihre Ärmchen um eine
+kleine rote Blume, die daneben stand. „Grüße die liebe Schwalbe von mir,
+wenn du sie zu sehen bekommst!“
+
+„Quivit, quivit!“ ertönte es in demselben Augenblicke über ihrem Kopfe.
+Sie blickte auf, es war die Schwalbe, die gerade vorüberflog. Sobald sie
+Däumelieschen gewahrte, wurde sie sehr froh, sie erzählte derselben, wie
+ungern sie den garstigen Maulwurf zum Manne nähme und daß sie nun tief
+unter der Erde wohnen sollte, wo das Sonnenlicht nie hineinschiene.
+
+„Nun kommt der kalte Winter,“ sagte die Schwalbe, „ich fliege nach den
+warmen Ländern fort. Willst du mich begleiten? Du kannst auf meinem
+Rücken sitzen! Fliege nur mit mir, du süßes kleines Däumelieschen, die
+du mir das Leben gerettet hast, als ich erfroren in dem finstern Schooße
+der Erde lag!“
+
+„Ja, ich ziehe mit dir,“ sagte Däumelieschen, und setzte sich auf des
+Vogels Rücken, mit den Füßen auf seine ausgebreiteten Flügel, band ihren
+Gürtel an einer der stärksten Federn fest, und nun erhob sich die
+Schwalbe hoch in die Lüfte, über Wälder und Seen, hoch hinauf über die
+großen Gebirge, wo immer Schnee liegt.
+
+Endlich kamen sie nach den warmen Ländern. Dort schien die Sonne weit
+heller als hier, der Himmel war doppelt so hoch und an den Gräben und
+Hecken wuchsen die herrlichsten grünen und blauen Weintrauben. In den
+Wäldern hingen Zitronen und Apfelsinen; Myrthen und Krausemünzen
+erfüllten alles mit ihrem Duft. Aber die Schwalbe flog immer noch weiter
+und es wurde schöner und schöner. Unter den prachtvollsten grünen Bäumen
+an dem blauen See stand seit alten Zeiten ein weißes Marmorschloß.
+Weinreben rankten sich um hohe Säulen; an der äußersten Spitze waren
+viele Schwalbennester und in einem derselben wohnte die Schwalbe, welche
+Däumelieschen trug.
+
+„Hier ist mein Haus!“ sagte die Schwalbe. „Suche dir aber selbst eine
+der prächtigsten Blumen aus, die da unten wachsen, und ich will dich
+dann hinaufsetzen, und dein Los wird so glücklich sein, als du nur
+irgend wünschen kannst!“
+
+„O wie herrlich!“ sagte Däumelieschen und klatschte in die kleinen
+Händchen.
+
+Da lag eine große, weiße Marmorsäule, welche zur Erde gesunken und in
+drei Stücke zerborsten war, zwischen ihnen aber wuchsen die schönsten
+großen weißen Blumen. Die Schwalbe flog mit Däumelieschen hinunter und
+setzte sie auf eines der breiten Blätter. Aber wer malt ihr Erstaunen:
+mitten in der Blume saß ein kleiner Mann, so weiß und durchsichtig, wie
+wenn er von Glas wäre. Die niedlichste goldene Krone hatte er auf dem
+Kopfe und die prächtigsten hellen Flügel auf den Schultern. Er selbst
+war nicht größer als Däumelieschen. Es war der Engel der Blumen. In
+jeder Blume wohnte so ein kleiner Mann oder eine Frau, dieser aber war
+der König über alle.
+
+Der kleine Prinz erschrak gewaltig vor der Schwalbe, denn gegen ihn, der
+so klein und fein war, schien sie ein wahrer Riesenvogel zu sein. Als er
+aber Däumelieschen gewahrte, ward er gar froh, war sie doch das
+allerschönste Mädchen, das er bis jetzt gesehen hatte. Deshalb nahm er
+die Goldkrone von seinem Haupte und setzte sie ihr auf, fragte, wie sie
+hieße und ob sie seine Gemahlin sein wollte, dann sollte sie Königin
+über alle Blumen werden.
+
+Däumelieschen gab dem schönen Prinzen das Jawort, und von jeder Blume
+kam eine Dame, oder ein Herr, so allerliebst, daß es eine Lust war.
+Jedes brachte Däumelieschen ein Geschenk, aber das beste von allen waren
+ein Paar schöne Flügel von einer großen weißen Fliege. Sie wurden
+Däumelieschen am Rücken befestigt und nun konnte auch sie von Blume zu
+Blume fliegen. Überall herrschte darüber Freude und die Schwalbe saß
+oben in ihrem Neste und sang ihnen etwas vor, so gut sie vermochte, aber
+im Herzen war sie gleichwohl betrübt, denn sie hatte Däumelieschen gar
+lieb und würde sich nie von ihr getrennt haben.
+
+„Du sollst fortan nicht mehr Däumelieschen heißen!“ sagte der Engel der
+Blumen zu ihr, „das ist ein häßlicher Name und du bist so schön. Wir
+wollen dich _Maja_ nennen!“
+
+„Lebewohl, lebewohl!“ sagte die Schwalbe, und zog wieder fort aus den
+warmen Ländern, weit fort nach unserem kalten Himmelsstriche. Dort hatte
+sie ein kleines Nest oben an dem Fenster, wo der Mann wohnt, der Märchen
+erzählen kann. Dem sang sie ihr „Quivit, quivit,“ vor. Davon haben wir
+die ganze Geschichte.
+
+
+
+
+Die Störche.
+
+  [Abbildung/Illustration: pic8.jpg]
+
+
+Auf dem letzten Hause eines kleinen Dörfchens befand sich ein
+Storchnest. Die Storchmutter saß im Neste bei ihren vier Jungen, welche
+den Kopf mit dem kleinen schwarzen Schnabel, denn er war noch nicht rot
+geworden, hervorstreckten. Ein Stückchen davon stand auf der Dachfirste
+starr und steif der Storchvater. Man hätte meinen können, er wäre aus
+Holz gedrechselt, so stille stand er. „Gewiß sieht es recht vornehm aus,
+daß meine Frau eine Schildwache bei dem Neste hat!“ dachte er. Und er
+stand unermüdlich auf einem Beine.
+
+Unten auf der Straße spielte eine Schar Kinder und als sie die Störche
+erblickten, sang einer der dreistesten Knaben und allmählich alle
+zusammen einen Vers aus einem alten Storchliede, so gut sie sich dessen
+erinnern konnten:
+
+  Störchlein, Störchlein, fliege,
+  Damit ich dich nicht kriege,
+  Deine Frau, die liegt im Neste dein
+  Bei deinen lieben Kindelein:
+  Das eine wird gepfählt,
+  Das andere wird abgekehlt,
+  Das dritte wird verbrannt,
+  Das vierte dir entwandt!
+
+„Höre nur, was die Jungen singen!“ sagten die kleinen Storchkinder. „Sie
+sagen, wir sollen gebraten und verbrannt werden!“
+
+„Daraus braucht ihr euch nichts zu machen!“ sagte die Storchmutter.
+
+Aber die Knaben wiederholten es immer von Neuem und wiesen mit Fingern
+nach dem Storche. Nur ein Knabe, _Peter_ mit Namen, sagte, es wäre eine
+Sünde und Schande, sich über die Tiere lustig zu machen, und nahm an
+ihrem Unfug nicht Teil. Die Storchmutter tröstete ihre Kinder: „Kümmert
+euch nicht darum!“ sagte sie; „seht nur, wie ruhig und unbekümmert euer
+Vater dasteht, und zwar auf einem Beine!“
+
+„Uns ist so bange!“ sagten die Jungen und zogen ihre Köpfe in das Nest
+zurück.
+
+Als am nächsten Tage die Kinder wieder zum Spielen zusammenkamen und die
+Störche erblickten, begannen sie wieder ihr altes Lied:
+
+  Das eine wird gepfählt,
+  Das andere wird abgekehlt! --
+
+„Werden wir wohl gepfählt und verbrannt?“ fragten die Storchkinder.
+
+„Nein, sicher nicht!“ erwiderte die Mutter. „Ihr sollt fliegen lernen;
+ich werde euch schon einüben! Dann geht es hinaus auf die Wiese und auf
+Besuch zu den Fröschen. Das wird eine Lust werden!“
+
+„Und was dann?“ fragten die Storchkinder.
+
+„Dann versammeln sich alle Störche, die hier im Lande wohnen und darauf
+beginnt die große Herbstübung. Da muß man gut fliegen, das ist von
+großer Wichtigkeit, denn wer nicht fliegen kann, wird von dem General
+mit seinem Schnabel totgestochen. Lernt deshalb nur fliegen, wenn der
+Unterricht beginnt!“
+
+„Dann werden wir aber doch gepfählt, wie die Knaben behaupteten, und
+höre nur, jetzt sagen sie es schon wieder!“
+
+„Hört auf mich und nicht auf sie!“ sagte die Storchmutter. „Nach der
+großen Übung fliegen wir nach den warmen Ländern, weit fort von hier,
+über Berge und Wälder. Nach Ägypten fliegen wir, wo es dreieckige
+Steinhäuser giebt, die in einer Spitze zusammenlaufen und bis über die
+Wolken ragen. Da ist auch ein Fluß, der aus seinen Ufern tritt und das
+ganze Land mit Schlamm bedeckt. Man geht im Schlamm und ißt Frösche.“
+
+„O!“ riefen alle Jungen.
+
+„Ja, da ist es wunderbar schön! Man thut den ganzen Tag nichts Anderes
+als essen. Und während wir es so gut haben, ist hier zu Lande nicht ein
+grünes Blatt auf den Bäumen. Hier ist es so kalt, daß die Wolken in
+Stücke gefrieren und in kleinen weißen Läppchen herniederfallen, was
+dann die Menschen Schnee nennen.“
+
+„Zerfrieren denn auch die unartigen Knaben in lauter Stücke?“ fragten
+die Storchkinder.
+
+„Nein, in Stücke zerfrieren sie nicht, aber es fehlt nicht viel daran
+und sie müssen in der dunklen Stube und hinter dem Ofen sitzen.“
+
+Inzwischen war schon einige Zeit verstrichen, und die Jungen waren so
+groß, daß sie im Neste aufrecht stehen und sich weit umschauen konnten.
+Der Storchvater kam jeden Tag mit wohlschmeckenden Fröschen, kleinen
+Schlangen und allen auffindbaren Storchleckereien geflogen.
+
+„Hört, nun müßt ihr fliegen lernen!“ sagte eines Tages die Storchmutter,
+und dann mußten alle vier Junge auf die Dachfirste hinaus. O, wie sie
+schwankten! Wie sie suchten, sich mit den Flügeln im Gleichgewicht zu
+erhalten, und doch nahe daran waren, hinunter zu fallen.
+
+„Seht nun auf mich!“ sagte die Mutter. „So müßt ihr den Kopf halten!
+So müßt ihr die Beine setzen! Eins, zwei! eins, zwei! Das wird euch in
+der Welt vorwärts bringen!“ Darauf flog sie eine kurze Strecke und die
+Jungen machten einen kleinen plumpen Satz. Bums! da lagen sie, denn sie
+waren noch zu schwerfällig.
+
+„Ich will nicht fliegen!“ sagte das eine Junge und kroch wieder in das
+Nest hinein. „Ich mache mir nichts daraus, nach den warmen Ländern zu
+kommen.“
+
+„So willst du also hier im Winter erfrieren? Sollen etwa die Knaben
+kommen und dich pfählen, abkehlen und verbrennen? Dann will ich sie
+rufen!“
+
+„O nein!“ sagte das Storchkind und hüpfte dann wieder auf das Dach zu
+den andern. Den dritten Tag konnten sie schon ordentlich ein wenig
+fliegen, und nun meinten sie auch in der Luft schweben zu können.
+
+„Seht, das war sehr gut!“ sagte die Storchmutter; „Ihr sollt morgen mit
+mir in den Sumpf fliegen. Dort kommen mehrere nette Storchfamilien mit
+ihren Kindern zusammen.“
+
+„Aber sollen wir denn an den unartigen Knaben keine Rache nehmen?“
+fragten die Storchjungen.
+
+„Laßt sie schreien, was sie wollen! Ihr erhebt euch doch zu den Wolken
+und kommt nach dem Lande der Pyramiden, während sie frieren müssen und
+kein grünes Blatt noch einen süßen Apfel haben!“
+
+„Ja, wir wollen uns rächen!“ flüsterten sie einander zu und dann wurde
+wieder fleißig geübt.
+
+Von allen Knaben auf der Gasse war keiner ärger, das Spottlied zu
+singen, als gerade der, welcher es zuerst angestimmt hatte, und das war
+ein ganz kleiner Bursche, denn er zählte sicher nicht mehr als sechs
+Jahre. Die Storchkinder meinten freilich, er wäre hundert Jahre, weil er
+so viel größer als ihre Mutter und ihr Vater war. Was wußten sie davon,
+wie alt kleine und große Kinder sein könnten. Ihre ganze Rache sollte
+sich über diesen Knaben ergießen; er hatte ja mit dem Liede den Anfang
+gemacht und war dessen noch nicht müde geworden. Die jungen Störche
+waren sehr aufgebracht und je größer sie wurden, desto weniger wollten
+sie es leiden.
+
+Nun kam der Herbst. Alle Störche versammelten sich allmählich, um gegen
+Winter nach den warmen Ländern zu fliegen. Was für eine Übung ging
+voraus! Über Wälder und Städte mußten sie, nur um zu sehen, wie gut sie
+fliegen könnten, denn es war ja eine große Reise, welche bevorstand.
+Unsere jungen Störche machten ihre Sache so hübsch, daß sie die Zensur:
+„Ausgezeichnet gut mit Frosch und Schlange“ erhielten. Das war das
+allerbeste Zeugnis und den Frosch und die Schlange durften sie essen,
+und thaten es auch.
+
+„Nun müssen wir uns rächen!“ sagten sie.
+
+„Jawohl!“ sagte die Storchmutter. „Was ich mir ausgedacht habe, das ist
+gerade das Richtige! Ich weiß, wo der Teich ist, in dem alle die kleinen
+Menschenkinder liegen, bis der Storch kommt und sie ihren Eltern bringt.
+Die niedlichen kleinen Kinder schlafen und träumen so süß, wie sie
+nachher nie mehr träumen. Alle Eltern wollen gern so ein kleines Kind
+haben, und alle Kinder wollen eine Schwester oder einen Bruder haben.
+Nun wollen wir nach dem Teiche hinfliegen und für jedes der Kinder eins
+holen, welche das arge Lied nicht gesungen und sich über die Störche
+nicht lustig gemacht haben!“
+
+„Aber jener schlimme, häßliche Junge, welcher es zu singen angefangen
+hat, was machen wir mit ihm?“
+
+„Im Teiche dort liegt ein kleines, totes Kind, welches sich tot geträumt
+hat. Das wollen wir zu ihm hintragen, dann muß er weinen, weil wir ihm
+ein totes Brüderchen gebracht haben. Allein dem guten Knaben, den ihr
+gewiß noch nicht vergessen habt, dem, welcher meinte: Es ist eine Sünde
+und Schande, sich über die Tiere lustig zu machen, dem wollen wir sowohl
+ein Brüderlein, als auch ein Schwesterlein bringen, und da der Knabe
+_Peter_ heißt, so sollt ihr sämtlich Peter gerufen werden!“
+
+Und wie sie es gesagt hatte, geschah es. Seitdem hießen alle Störche
+_Peter_ und werden noch heute so genannt.
+
+
+
+
+Der fliegende Koffer.
+
+  [Abbildung/Illustration: pic11.jpg]
+
+
+Es war einmal ein Kaufmann, der so reich war, daß er die ganze Straße
+und beinahe noch ein Seitengäßchen mit lauter harten Thalern pflastern
+konnte. Allein das that er nicht, er wußte sein Geld anders anzuwenden.
+Gab er einen Dreier aus, bekam er einen Thaler wieder. Aber er mußte
+doch sterben und sein Sohn bekam nun all dies Geld und er lebte lustig,
+ging jede Nacht auf Maskenbälle, machte Papierdrachen aus Thalerscheinen
+und so konnte das Geld schon abnehmen und that es auch.
+
+Zuletzt besaß er nicht mehr als wenige Groschen und hatte keine andern
+Kleider als ein Paar Pantoffeln und einen alten Schlafrock. Nun
+bekümmerten sich seine Freunde nicht länger um ihn, da sie sich ja mit
+ihm zusammen nicht auf der Straße sehen lassen konnten; nur einer von
+ihnen, ein gutmütiger Mensch, sandte ihm einen alten Koffer und ließ ihm
+sagen: „Pack ein!“ Ja, das war nun wohl recht gut, aber er hatte nichts
+einzupacken und deshalb setzte er sich selbst in den Koffer.
+
+Das war ein absonderlicher Koffer. Sobald man an das Schloß drückte,
+konnte er fliegen. Er that es und husch! flog er mit ihm durch den
+Schornstein, über die Stadt hinweg, hoch hinauf bis über die Wolken,
+weiter und immer weiter fort.
+
+Endlich kam er nach dem Lande der Türken. Den Koffer verbarg er im Walde
+unter dürren Blättern und ging dann in die Stadt hinein. Das konnte er
+recht wohl thun, denn bei den Türken ging ja alles wie er in Schlafrock
+und Pantoffeln. Da begegnete er einer Frau und fragte sie: „Was ist das
+für ein großes Schloß hier unmittelbar bei der Stadt, dessen Fenster so
+hoch sitzen?“
+
+„Dort wohnt die Tochter des Königs!“ sagte sie, „es ist ihr geweissagt
+worden, daß sie einstmals über ihren Bräutigam sehr unglücklich werden
+würde und deshalb darf niemand zu ihr kommen, wenn nicht der König und
+die Königin zugegen sind!“
+
+„Ich danke!“ sagte der Kaufmannssohn und dann ging er in den Wald
+hinaus, setzte sich in seinen Koffer, flog auf das Dach des Schlosses
+und kroch durch das Fenster zur Prinzessin hinein.
+
+Sie lag auf dem Sofa und schlief; sie war so lieblich, daß er sie küssen
+mußte. Sie erwachte und erschrack heftig, er aber sagte, er wäre der
+Türkengott, der durch die Luft zu ihr gekommen wäre und das schmeichelte
+ihr.
+
+Da saßen sie nun Seite an Seite und er erzählte ihr Märchen und
+Geschichten.
+
+Ja, das waren herrliche Geschichten! Dann freite er um die Prinzessin
+und sie sagte sogleich ja.
+
+„Aber Sie müssen den Sonnabend herkommen, da ist der König und die
+Königin bei mir zum Thee. Sie werden sehr stolz darauf sein, daß ich den
+Türkengott bekomme. Aber sorgen Sie dafür, daß Sie ein recht schönes
+Märchen erzählen können, denn das gewährt meinen Eltern die angenehmste
+Unterhaltung. Meine Mutter hört gern ernste und vornehme, und mein Vater
+lustige, über die man lachen kann.“
+
+„Ja, ich bringe keine andere Brautgabe, als ein Märchen!“ und dann
+trennten sie sich; aber die Prinzessin gab ihm einen mit Goldstücken
+besetzten Säbel, und die Goldstücke konnte er besonders gebrauchen.
+
+Nun flog er fort, kaufte sich einen neuen Schlafrock, ließ seinen Koffer
+recht schön herrichten, setzte sich dann draußen in den Wald und
+dichtete ein Märchen. Das sollte bis zum Sonnabend fertig sein und das
+war nicht so leicht. Als es nun fertig war, siehe da war es gerade
+Sonnabend.
+
+Der König, die Königin und der ganze Hof warteten bei der Prinzessin mit
+dem Thee. Als der Kaufmannssohn nun angeflogen kam, wurde er sehr
+freundlich empfangen.
+
+„Wollen Sie nun ein Märchen erzählen!“ sagte die Königin, „eins, welches
+tiefsinnig und belehrend ist!“
+
+„Aber worüber man auch lachen kann!“ sagte der König.
+
+„Jawohl!“ sagte er und erzählte nun folgendes:
+
+„Es war einmal ein Bund Schwefelhölzer, die sich auf ihre hohe Abkunft
+was einbildeten. Ihr Stammbaum, das heißt die große Fichte, von der
+jedes ein kleines, kleines Stückchen war, stand als ein großer alter
+Baum im Walde. Die Schwefelhölzer lagen nun auf dem Gesimse zwischen
+einem Feuerzeuge und einem alten eisernen Topfe und diesen erzählten sie
+von ihrer Jugend. „Ja, als wir auf dem grünen Zweige waren,“ sagten sie,
+„da waren wir wahrlich auf einem grünen Zweige. Jeden Abend und Morgen
+gab es Diamantthee, das war der Tau, den ganzen Tag hatten wir
+Sonnenschein, wenn nämlich die Sonne schien und alle die kleinen Vögel
+mußten uns Geschichten erzählen. Wir konnten recht gut merken, daß wir
+auch reich waren, denn die Laubbäume waren nur im Sommer bekleidet, aber
+unsere Familie hatte die Mittel, für Sommer und Winter grüne Kleider
+anzuschaffen. Nun aber kamen Holzhauer und es entstand eine große
+Umwälzung; unsere ganze Familie zersplitterte sich. Der Stammherr
+erhielt als Hauptmast Platz auf einem prächtigen Schiffe, das die Welt
+umsegeln konnte, wenn es wollte. Den anderen Zweigen wurden andere
+Stellen eingeräumt und wir haben nun die Aufgabe, der niederen Menge das
+Licht anzuzünden.“
+
+„Ich weiß ein anderes Lied zu singen!“ sagte der Eisentopf, an dessen
+Seite die Schwefelhölzer lagen. „Seit ich das Licht der Welt erblickte,
+bin ich viele mal gescheuert und gekocht worden. Ich sorge für das
+Dauerhafte und bin, eigentlich gesprochen, der erste hier im Hause.
+Meine einzige Freude ist, nach Tische rein und fein auf dem Gesimse zu
+liegen und mit den Kameraden vernünftig zu plaudern. Nehme ich aber den
+Wassereimer aus, der doch bisweilen auf den Hof hinunter kommt, so leben
+wir hier immer hinter zugemachten Thüren. Unser einziger Neuigkeitsbote
+ist der Marktkorb, aber der redet zu aufrührerisch über die Regierung
+und das Volk.“
+
+„Nun sprichst du zu viel!“ sagte das Feuerzeug und der Stahl schlug
+gegen den Feuerstein, daß Funken sprühten. „Wollen wir uns nicht einen
+lustigen Abend machen?“
+
+„Ja, lasset uns davon sprechen, wer der Vornehmste ist!“ sagten die
+Schwefelhölzer.
+
+„Nein, ich spreche nicht gern von mir selber!“ versetzte der Thontopf.
+„Ich schlage eine Abendunterhaltung vor. Ich will den Anfang machen und
+etwas erzählen; jeder teilt mit, was er erlebt hat. Da kann man sich so
+trefflich hineinfinden und es ist sehr lustig! Also hört: An der Ostsee
+bei den dänischen Buchten brachte ich meine Jugend bei einer stillen
+Familie zu; die Möbel wurden poliert, der Fußboden aufgewischt und alle
+vierzehn Tage wurden neue Vorhänge aufgesteckt!“
+
+„Wie anschaulich Sie doch erzählen!“ sagte der Haarbesen. „Man kann
+gleich hören, daß ein Frauenzimmer erzählt; es zieht sich etwas
+Reinliches hindurch!“
+
+„Ja, das fühlt man!“ sagte der Wassereimer und machte einen Satz, daß es
+auf dem Boden nur so klatschte!
+
+Der Topf fuhr fort zu erzählen und das Ende entsprach dem Anfange.
+
+Alle Teller klirrten vor Freude und der Haarbesen zog grüne Petersilie
+aus dem Sandloche und bekränzte den Topf, weil er wußte, er würde die
+andern dadurch ärgern und „bekränze ich ihn heute,“ dachte er, „so
+bekränzt er mich morgen!“
+
+„Nun will ich tanzen!“ sagte die Feuerzange und tanzte. „Werde ich nun
+auch bekränzt?“ fragte die Feuerzange und sie wurde es.
+
+„Das ist doch nur Pöbel!“ dachten die Schwefelhölzer.
+
+Nun sollte die Theemaschine singen, aber sie entschuldigte sich mit
+Erkältung; auch könnte sie nur in kochendem Zustande singen, aber es
+geschah eigentlich aus lauter Vornehmthuerei; sie wollte nur auf dem
+Tisch drinnen bei der Herrschaft singen.
+
+Im Fenster saß eine alte Feder, mit der die Magd zu schreiben pflegte.
+Es war nichts Bemerkenswertes an ihr, ausgenommen, daß sie zu tief in
+das Tintenfaß getaucht war, aber gerade darauf that sie sich etwas zu
+Gute. „Will die Theemaschine nicht singen,“ sagte sie, „so mag sie es
+bleiben lassen. Draußen sitzt im Bauer eine Nachtigall, die singen kann;
+sie hat zwar nichts gelernt, aber gleichwohl wollen wir ihr das heute
+Abend nicht übel auslegen!“
+
+„Ich finde es im höchsten Grade unpassend,“ äußerte der Theekessel, der
+das Amt eines Küchensängers bekleidete und ein Halbbruder der
+Theemaschine war, „daß ein fremder Vogel angehört werden soll. Ist das
+patriotisch? Ich fordere den Marktkorb auf, darüber sein Urteil
+abzugeben!“
+
+„Ich ärgere mich nur!“ sagte der Marktkorb, „ich ärgere mich so sehr,
+wie es sich niemand vorstellen kann! Würde es nicht weit vernünftiger
+sein, das ganze Haus einmal auf den rechten Fleck zu setzen? Jeder
+sollte dann schon den ihm gebührenden Platz erhalten, und ich würde die
+ganzen Anordnungen treffen!“
+
+„Ja, laßt uns Lärm machen!“ riefen sie sämtlich. Plötzlich ging die
+Thüre auf. Es war das Dienstmädchen, und nun standen sie still und
+wagten nicht Muck zu sagen. Aber da war kein Topf, der nicht ein Gefühl
+seiner Macht und Würde gehabt hätte. „Ja, wenn ich nur gewollt hätte,“
+dachte ein jeder, „dann würde es sicher einen lustigen Abend gegeben
+haben!“
+
+Das Dienstmädchen nahm die Schwefelhölzer und machte Feuer mit ihnen an
+-- Gott bewahre uns, wie sie sprühten und aufflammten.
+
+„Nun kann ein jeder sehen, daß wir die ersten sind!“ dachten sie.
+„Welchen Glanz, welches Licht wir haben!“ -- und nun waren sie
+ausgebrannt. Und nun ist auch meine Geschichte aus.“
+
+„Das war ein herrliches Märchen!“ sagte die Königin. „Ich fühlte mich im
+Geiste ganz zu den Schwefelhölzern in die Küche versetzt. Ja, nun sollst
+du unsere Tochter haben!“
+
+„Jawohl!“ sagte der König, „du sollst unsere Tochter den Montag
+bekommen!“ denn nun sagte er zu ihm, als zu einem künftigen
+Familiengliede, „du“.
+
+Die Hochzeit war also festgesetzt und den Abend vorher wurde die ganze
+Stadt erleuchtet; es war außerordentlich prachtvoll.
+
+„Ich muß wohl auch daran denken, mein Scherflein zu den Feierlichkeiten
+beizutragen!“ dachte der Kaufmannssohn, und nun kaufte er Raketen,
+Knallerbsen und alles erdenkliche Feuerwerk, legte es in seinen Koffer
+und flog damit in die Luft empor.
+
+Rutsch! ging es in die Höhe und verpuffte unter vielem Lärm.
+
+Alle Türken hüpften dabei in die Höhe, daß ihnen die Pantoffeln um die
+Ohren fuhren. Dergleichen Lufterscheinungen hatten sie niemals gesehen.
+Nun sahen sie ein, daß es der Türkengott selber war, der die Prinzessin
+bekommen sollte.
+
+Sobald sich der Kaufmannssohn mit seinem Koffer wieder in den Wald
+hinabgelassen hatte, dachte er: „Ich will doch in die Stadt gehen, um
+mir berichten zu lassen, wie es sich ausgenommen hat.“ Man kann sich
+wohl zusammenreimen, daß er Lust dazu hatte.
+
+Nein, was ihm die Leute doch alles erzählten! Ein jeder, bei dem er sich
+erkundigte, hatte es in seiner Weise gesehen, aber einen prächtigen
+Eindruck hatte es auf alle gemacht.
+
+„Ich sah den Türkengott selbst!“ erzählte der eine, „er hatte Augen wie
+blitzende Sterne und einen Bart wie schäumendes Wasser!“
+
+„Er flog in einem feurigen Mantel,“ berichtete ein anderer.
+
+Ja, das waren vortreffliche Sachen, die er zu hören bekam, und den Tag
+darauf sollte er Hochzeit haben.
+
+Nun ging er nach dem Walde zurück, um sich in seinen Koffer zu setzen --
+aber wo war der? Der Koffer war verbrannt. Ein Funke war von dem
+Feuerwerk zurückgeblieben, der Feuer gefangen und den Koffer in Asche
+gelegt hatte. Er konnte nicht mehr fliegen, nicht mehr zu seiner Braut
+gelangen.
+
+Sie aber stand den ganzen Tag auf dem Dache und harrte seiner. Sie
+wartet noch, er aber durchzieht die Welt und erzählt Märchen, die jedoch
+nicht mehr so lustig sind, wie das von den Schwefelhölzchen.
+
+
+
+
+Der Schneemann.
+
+  [Abbildungen/Illustrations: pic15.jpg, tafel2.jpg]
+
+
+„Es knackt und prasselt in mir, so schön kalt ist es!“ sagte der
+Schneemann. „Der eisige Wind bringt einem fürwahr Leben in die Glieder.
+Und sieh nur, wie die große Lampe da oben verglüht!“ Er meinte die
+untergehende Sonne. „Sie soll mich nicht zum Blinzeln bringen, ich halte
+meine Bruchstücke 
