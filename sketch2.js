@@ -5,7 +5,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1400, 900);
+  createCanvas(1600, 900);
   // createCanvas(windowWidth - 400, windowHeight - 200);
   noStroke();
 }
