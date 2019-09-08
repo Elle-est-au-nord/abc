@@ -5,8 +5,8 @@ function preload() {
 }
 
 function setup() {
-  // createCanvas(1400, 500);
-  createCanvas(windowWidth - 800, windowHeight - 200);
+  createCanvas(1400, 500);
+  // createCanvas(windowWidth - 400, windowHeight - 200);
   noStroke();
 }
 
@@ -38,6 +38,6 @@ function draw() {
   }
 }
 
-function windowResized() {
-    resizeCanvas(windowWidth, windowHeight);
-}
+// function windowResized() {
+//     resizeCanvas(windowWidth, windowHeight);
+// }
