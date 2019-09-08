@@ -1,11 +1,12 @@
 let table;
 
 function preload() {
-  table = loadTable('letters_freq_en_fr_colours.csv', 'csv', 'header');
+  table = loadTable('data/letters_freq_en_fr_colours.csv', 'csv', 'header');
 }
 
 function setup() {
-  createCanvas(1400, 500);
+  // createCanvas(1400, 500);
+  createCanvas(windowWidth - 800, windowHeight - 200);
   noStroke();
 }
 
@@ -35,4 +36,8 @@ function draw() {
     square(30 + x_coord, y_coord_fr, side_fr, 2);
     x_coord = x_coord + Math.max(side_en, side_fr) + 5;
   }
+}
+
+function windowResized() {
+    resizeCanvas(windowWidth, windowHeight);
 }

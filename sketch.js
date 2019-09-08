@@ -1,7 +1,7 @@
 let table;
 
 function preload() {
-  table = loadTable('letters_freq_en_fr_colours.csv', 'csv', 'header');
+  table = loadTable('data/letters_freq_en_fr_colours.csv', 'csv', 'header');
 }
 
 function setup() {
