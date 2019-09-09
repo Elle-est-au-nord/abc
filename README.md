@@ -4,3 +4,5 @@ A while ago I started a Python [project](https://github.com/Eleonore9/text_analy
 
 
 Here I will focus on visualising the results using the Javascript library [p5.js](https://p5js.org/) and comparing different languages.
+
+![letter viz for 4 languages](abc_letterviz.jpg)
